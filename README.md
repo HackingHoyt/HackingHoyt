@@ -3,8 +3,9 @@
 - 🌱 I’m Just getting started on A.I. with a Udemy class. 
 - 💞️ I’m looking to collaborate on something simple in A.I. for learning purposes.
 - 📫 How to reach me @hackinghoyt.com
-- ⚡ Fun fact: I studied to be a software engineer. I went to Kenzie academy and graduated with a 91% in july 2020. I have done nothing with my new skills(job wise or much else)
-- I got chatGPT and see what can be done with it and I amazed and excited to learn more! 
+- ⚡ Fun fact: I studied to be a software engineer. I went to Kenzie academy and graduated with a 91% in july 2021. I have done nothing with my new skills(job wise or much else)
+- I got chatGPT and see what can be done with it and I amazed and excited to learn more!
+- my portfolio is www.hackinghoyt.com
 
 <!---
 HackingHoyt/HackingHoyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
